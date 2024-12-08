@@ -23,6 +23,9 @@ A simple and intuitive menu for performing operations on employee data.
 Use of SQLite for persistent data storage.
 Ability to add, delete, update, and display employee information.
 This project serves as an example of using databases in Java and demonstrates working with JDBC (Java Database Connectivity) for interacting with SQLite.
-![Снимок экрана 2024-11-30 181334](https://github.com/user-attachments/assets/cb961808-4e95-4724-9eae-42a01a2e662c)
-![Снимок экрана 2024-11-30 181530](https://github.com/user-attachments/assets/450749d5-6ab3-4b68-8a75-53520f1457ec)
-![Снимок экрана 2024-11-30 181546](https://github.com/user-attachments/assets/1dcc7a14-410d-44ea-a716-b5adbc4eb439)
+
+
+![Снимок экрана 2024-12-08 181936](https://github.com/user-attachments/assets/67544dcc-4aad-4e6d-bbfe-cafafea03657)
+![Снимок экрана 2024-12-08 182100](https://github.com/user-attachments/assets/af6ecea7-9dfb-4ec8-bc02-e2248a260836)
+![Снимок экрана 2024-12-08 182120](https://github.com/user-attachments/assets/58acc671-6517-40cd-85ab-725ada4be5ab)
+![Снимок экрана 2024-12-08 182135](https://github.com/user-attachments/assets/3ca6ca44-b0d0-476e-b701-ee19aff7acb1)
